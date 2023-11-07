@@ -19,22 +19,6 @@ header {
   background-image: url("https://user0514.cdnw.net/shared/img/thumb/wpIMGL2790_TP_V.jpg");
   border-bottom: 2px solid;
 }
-/* .background-image {
-  background-image: url("https://d.kuku.lu/55w6xdrcv");
-  background-size: cover;
-  width: 100%;
-  height: 100%;
-} */
-/* .card {
-  text-align: center;
-  justify-content: center;
-  display: flex;
-  margin: auto;
-  padding: auto;
-  margin: 10px;
-  width: 50%;
-  height: auto;
-} */
 .form {
   text-align: center;
   justify-content: center;

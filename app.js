@@ -1,26 +1,26 @@
 const quiz = [
   {
-    question: "1問目　FF16の主人公は誰？",
+    question: "1問目 FF16の主人公は誰？",
     answers: ["クライヴ", "クラウド", "クラトス", "グラディオラス"],
     correct: "クライヴ",
   },
   {
-    question: "2問目　FF7REMAKEは何部作？",
+    question: "2問目 FF7REMAKEは何部作？",
     answers: ["1部作", "2部作", "3部作", "4部作"],
     correct: "3部作",
   },
   {
-    question: "3問目　FF15主人公ノクティスの名前を訳すと何になる？",
+    question: "3問目 FF15主人公ノクティスの名前を訳すと何になる？",
     answers: ["空", "夜空", "星", "星空"],
     correct: "夜空",
   },
   {
-    question: "4問目　FF4主人公セシルの最初のジョブは？",
+    question: "4問目 FF4主人公セシルの最初のジョブは？",
     answers: ["ニート", "パラディン", "格闘家", "暗黒騎士"],
     correct: "暗黒騎士",
   },
   {
-    question: "5問目　FF15主人公ライトニングの妹の名前は？",
+    question: "5問目 FF15主人公ライトニングの妹の名前は？",
     answers: ["セラ", "セロ", "セロリ", "セラフ"],
     correct: "セラ",
   },
